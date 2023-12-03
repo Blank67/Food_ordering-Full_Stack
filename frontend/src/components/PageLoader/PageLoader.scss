@@ -1,0 +1,18 @@
+.spinner {
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+#global_loader_placeholder {
+    background-color: #efefef;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1000;
+    top: 0px;
+    left: 0px;
+    opacity: 0.5;
+    // display: none;
+    filter: alpha(opacity=50);
+    overflow: hidden;
+}

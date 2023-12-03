@@ -1,0 +1,1364 @@
+[
+    {
+        "countrycode": 91,
+        "Min": 7,
+        "Max": 10,
+        "CountryName": "India (+91)"
+    },
+    {
+        "countrycode": 93,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Afghanistan (+93)"
+    },
+    {
+        "countrycode": 355,
+        "Min": 3,
+        "Max": 9,
+        "CountryName": "Albania (+355)"
+    },
+    {
+        "countrycode": 213,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Algeria (+213)"
+    },
+    {
+        "countrycode": 684,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "American Samoa (+1-684)"
+    },
+    {
+        "countrycode": 376,
+        "Min": 6,
+        "Max": 9,
+        "CountryName": "Andorra (+376)"
+    },
+    {
+        "countrycode": 244,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Angola (+244)"
+    },
+    {
+        "countrycode": 264,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Anguilla (+1-264)"
+    },
+    {
+        "countrycode": 268,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Antigua and Barbuda (+1-268)"
+    },
+    {
+        "countrycode": 54,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Argentina (+54)"
+    },
+    {
+        "countrycode": 374,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Armenia (+374)"
+    },
+    {
+        "countrycode": 297,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Aruba (+297)"
+    },
+    {
+        "countrycode": 61,
+        "Min": 5,
+        "Max": 15,
+        "CountryName": "Australia (+61)"
+    },
+    {
+        "countrycode": 43,
+        "Min": 4,
+        "Max": 13,
+        "CountryName": "Austria (+43)"
+    },
+    {
+        "countrycode": 994,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Azerbaijan (+994)"
+    },
+    {
+        "countrycode": 242,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Bahamas (+1-242)"
+    },
+    {
+        "countrycode": 973,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Bahrain (+973)"
+    },
+    {
+        "countrycode": 880,
+        "Min": 6,
+        "Max": 10,
+        "CountryName": "Bangladesh (+880)"
+    },
+    {
+        "countrycode": 246,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Barbados (+1-246)"
+    },
+    {
+        "countrycode": 375,
+        "Min": 9,
+        "Max": 10,
+        "CountryName": "Belarus (+375)"
+    },
+    {
+        "countrycode": 32,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Belgium (+32)"
+    },
+    {
+        "countrycode": 501,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Belize (+501)"
+    },
+    {
+        "countrycode": 229,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Benin (+229)"
+    },
+    {
+        "countrycode": 441,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Bermuda (+1-441)"
+    },
+    {
+        "countrycode": 975,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Bhutan (+975)"
+    },
+    {
+        "countrycode": 591,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Bolivia (Plurinational State of) (+591)"
+    },
+    {
+        "countrycode": 387,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Bosnia and Herzegovina (+387)"
+    },
+    {
+        "countrycode": 267,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Botswana (+267)"
+    },
+    {
+        "countrycode": 55,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Brazil (+55)"
+    },
+    {
+        "countrycode": 284,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "British Virgin Islands (+1-284)"
+    },
+    {
+        "countrycode": 673,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Brunei Darussalam (+673)"
+    },
+    {
+        "countrycode": 359,
+        "Min": 7,
+        "Max": 9,
+        "CountryName": "Bulgaria (+359)"
+    },
+    {
+        "countrycode": 226,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Burkina Faso (+226)"
+    },
+    {
+        "countrycode": 257,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Burundi (+257)"
+    },
+    {
+        "countrycode": 855,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Cambodia (+855)"
+    },
+    {
+        "countrycode": 237,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Cameroon (+237)"
+    },
+    {
+        "countrycode": 1,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Canada (+1)"
+    },
+    {
+        "countrycode": 238,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Cape Verde (+238)"
+    },
+    {
+        "countrycode": 345,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Cayman Islands (+1-345)"
+    },
+    {
+        "countrycode": 236,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Central African Rep. (+236)"
+    },
+    {
+        "countrycode": 235,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Chad (+235)"
+    },
+    {
+        "countrycode": 56,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Chile (+56)"
+    },
+    {
+        "countrycode": 86,
+        "Min": 5,
+        "Max": 12,
+        "CountryName": "China (+86)"
+    },
+    {
+        "countrycode": 57,
+        "Min": 8,
+        "Max": 10,
+        "CountryName": "Colombia (+57)"
+    },
+    {
+        "countrycode": 269,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Comoros (+269)"
+    },
+    {
+        "countrycode": 242,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Congo (+242)"
+    },
+    {
+        "countrycode": 682,
+        "Min": 5,
+        "Max": 5,
+        "CountryName": "Cook Islands (+682)"
+    },
+    {
+        "countrycode": 506,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Costa Rica (+506)"
+    },
+    {
+        "countrycode": 225,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Côte d'Ivoire (+225)"
+    },
+    {
+        "countrycode": 385,
+        "Min": 8,
+        "Max": 12,
+        "CountryName": "Croatia (+385)"
+    },
+    {
+        "countrycode": 53,
+        "Min": 6,
+        "Max": 8,
+        "CountryName": "Cuba (+53)"
+    },
+    {
+        "countrycode": 599,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Curaçao (+599)"
+    },
+    {
+        "countrycode": 357,
+        "Min": 8,
+        "Max": 11,
+        "CountryName": "Cyprus (+357)"
+    },
+    {
+        "countrycode": 420,
+        "Min": 4,
+        "Max": 12,
+        "CountryName": "Czech Rep. (+420)"
+    },
+    {
+        "countrycode": 45,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Denmark (+45)"
+    },
+    {
+        "countrycode": 253,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "Djibouti (+253)"
+    },
+    {
+        "countrycode": 767,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Dominica (+1-767)"
+    },
+    {
+        "countrycode":  "809/829",
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Dominican Rep. (+1-809/829)"
+    },
+    {
+        "countrycode": 593,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Ecuador (+593)"
+    },
+    {
+        "countrycode": 20,
+        "Min": 7,
+        "Max": 9,
+        "CountryName": "Egypt (+20)"
+    },
+    {
+        "countrycode": 503,
+        "Min": 7,
+        "Max": 11,
+        "CountryName": "El Salvador (+503)"
+    },
+    {
+        "countrycode": 240,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Equatorial Guinea (+240)"
+    },
+    {
+        "countrycode": 291,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Eritrea (+291)"
+    },
+    {
+        "countrycode": 372,
+        "Min": 7,
+        "Max": 10,
+        "CountryName": "Estonia (+372)"
+    },
+    {
+        "countrycode": 251,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Ethiopia (+251)"
+    },
+    {
+        "countrycode": 500,
+        "Min": 5,
+        "Max": 5,
+        "CountryName": "Falkland Islands (Malvinas) (+500)"
+    },
+    {
+        "countrycode": 298,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "Faroe Islands (+298)"
+    },
+    {
+        "countrycode": 679,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Fiji (+679)"
+    },
+    {
+        "countrycode": 358,
+        "Min": 5,
+        "Max": 12,
+        "CountryName": "Finland (+358)"
+    },
+    {
+        "countrycode": 33,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "France (+33)"
+    },
+    {
+        "countrycode": 594,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "French Guiana (+594)"
+    },
+    {
+        "countrycode": 689,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "French Polynesia (+689)"
+    },
+    {
+        "countrycode": 241,
+        "Min": 6,
+        "Max": 7,
+        "CountryName": "Gabon (+241)"
+    },
+    {
+        "countrycode": 220,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Gambia (+220)"
+    },
+    {
+        "countrycode": 995,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Georgia (+995)"
+    },
+    {
+        "countrycode": 49,
+        "Min": 6,
+        "Max": 13,
+        "CountryName": "Germany (+49)"
+    },
+    {
+        "countrycode": 233,
+        "Min": 5,
+        "Max": 9,
+        "CountryName": "Ghana (+233)"
+    },
+    {
+        "countrycode": 350,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Gibraltar (+350)"
+    },
+    {
+        "countrycode": 30,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Greece (+30)"
+    },
+    {
+        "countrycode": 299,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "Greenland (+299)"
+    },
+    {
+        "countrycode": 473,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Grenada (+1-473)"
+    },
+    {
+        "countrycode": 590,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Guadeloupe (+590)"
+    },
+    {
+        "countrycode": 671,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Guam (+1-671)"
+    },
+    {
+        "countrycode": 502,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Guatemala (+502)"
+    },
+    {
+        "countrycode": 224,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Guinea (+224)"
+    },
+    {
+        "countrycode": 245,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Guinea-Bissau (+245)"
+    },
+    {
+        "countrycode": 592,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Guyana (+592)"
+    },
+    {
+        "countrycode": 509,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Haiti (+509)"
+    },
+    {
+        "countrycode": 504,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Honduras (+504)"
+    },
+    {
+        "countrycode": 852,
+        "Min": 4,
+        "Max": 9,
+        "CountryName": "Hong Kong, China (+852)"
+    },
+    {
+        "countrycode": 36,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Hungary (+36)"
+    },
+    {
+        "countrycode": 354,
+        "Min": 7,
+        "Max": 9,
+        "CountryName": "Iceland (+354)"
+    },
+    {
+        "countrycode": 62,
+        "Min": 5,
+        "Max": 10,
+        "CountryName": "Indonesia (+62)"
+    },
+    {
+        "countrycode": 98,
+        "Min": 6,
+        "Max": 10,
+        "CountryName": "Iran (Islamic Republic of) (+98)"
+    },
+    {
+        "countrycode": 964,
+        "Min": 8,
+        "Max": 10,
+        "CountryName": "Iraq (+964)"
+    },
+    {
+        "countrycode": 353,
+        "Min": 7,
+        "Max": 11,
+        "CountryName": "Ireland (+353)"
+    },
+    {
+        "countrycode": 972,
+        "Min": 11,
+        "Max": 11,
+        "CountryName": "Israel (+972)"
+    },
+    {
+        "countrycode": 39,
+        "Min": 7,
+        "Max": 11,
+        "CountryName": "Italy (+39)"
+    },
+    {
+        "countrycode": 876,
+        "Min": 5,
+        "Max": 7,
+        "CountryName": "Jamaica (+1-876)"
+    },
+    {
+        "countrycode": 81,
+        "Min": 5,
+        "Max": 13,
+        "CountryName": "Japan (+81)"
+    },
+    {
+        "countrycode": 962,
+        "Min": 5,
+        "Max": 9,
+        "CountryName": "Jordan (+962)"
+    },
+    {
+        "countrycode": 7,
+        "Min": 6,
+        "Max": 10,
+        "CountryName": "Kazakhstan (+7)"
+    },
+    {
+        "countrycode": 254,
+        "Min": 5,
+        "Max": 10,
+        "CountryName": "Kenya (+254)"
+    },
+    {
+        "countrycode": 686,
+        "Min": 5,
+        "Max": 5,
+        "CountryName": "Kiribati (+686)"
+    },
+    {
+        "countrycode": 82,
+        "Min": 8,
+        "Max": 11,
+        "CountryName": "Korea (Rep. of) (+82)"
+    },
+    {
+        "countrycode": 965,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Kuwait (+965)"
+    },
+    {
+        "countrycode": 996,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Kyrgyzstan (+996)"
+    },
+    {
+        "countrycode": 856,
+        "Min": 8,
+        "Max": 10,
+        "CountryName": "Lao P.D.R. (+856)"
+    },
+    {
+        "countrycode": 371,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Latvia (+371)"
+    },
+    {
+        "countrycode": 961,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Lebanon (+961)"
+    },
+    {
+        "countrycode": 266,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Lesotho (+266)"
+    },
+    {
+        "countrycode": 231,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Liberia (+231)"
+    },
+    {
+        "countrycode": 218,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Libya (+218)"
+    },
+    {
+        "countrycode": 423,
+        "Min": 7,
+        "Max": 9,
+        "CountryName": "Liechtenstein (+423)"
+    },
+    {
+        "countrycode": 370,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Lithuania (+370)"
+    },
+    {
+        "countrycode": 352,
+        "Min": 4,
+        "Max": 11,
+        "CountryName": "Luxembourg (+352)"
+    },
+    {
+        "countrycode": 853,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Macao, China (+853)"
+    },
+    {
+        "countrycode": 261,
+        "Min": 9,
+        "Max": 10,
+        "CountryName": "Madagascar (+261)"
+    },
+    {
+        "countrycode": 265,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Malawi (+265)"
+    },
+    {
+        "countrycode": 60,
+        "Min": 7,
+        "Max": 9,
+        "CountryName": "Malaysia (+60)"
+    },
+    {
+        "countrycode": 960,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Maldives (+960)"
+    },
+    {
+        "countrycode": 223,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Mali (+223)"
+    },
+    {
+        "countrycode": 356,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Malta (+356)"
+    },
+    {
+        "countrycode": 692,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Marshall Islands (+692)"
+    },
+    {
+        "countrycode": 596,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Martinique (+596)"
+    },
+    {
+        "countrycode": 222,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Mauritania (+222)"
+    },
+    {
+        "countrycode": 230,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Mauritius (+230)"
+    },
+    {
+        "countrycode": 52,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Mexico (+52)"
+    },
+    {
+        "countrycode": 691,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Micronesia (+691)"
+    },
+    {
+        "countrycode": 373,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Moldova (Republic of) (+373)"
+    },
+    {
+        "countrycode": 377,
+        "Min": 5,
+        "Max": 9,
+        "CountryName": "Monaco (+377)"
+    },
+    {
+        "countrycode": 976,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Mongolia (+976)"
+    },
+    {
+        "countrycode": 382,
+        "Min": 4,
+        "Max": 12,
+        "CountryName": "Montenegro (+382)"
+    },
+    {
+        "countrycode": 664,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Montserrat (+1-664)"
+    },
+    {
+        "countrycode": 212,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Morocco (+212)"
+    },
+    {
+        "countrycode": 258,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Mozambique (+258)"
+    },
+    {
+        "countrycode": 95,
+        "Min": 7,
+        "Max": 9,
+        "CountryName": "Myanmar (+95)"
+    },
+    {
+        "countrycode": 264,
+        "Min": 6,
+        "Max": 10,
+        "CountryName": "Namibia (+264)"
+    },
+    {
+        "countrycode": 674,
+        "Min": 4,
+        "Max": 7,
+        "CountryName": "Nauru (+674)"
+    },
+    {
+        "countrycode": 977,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Nepal (+977)"
+    },
+    {
+        "countrycode": 31,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Netherlands (+31)"
+    },
+    {
+        "countrycode": 687,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "New Caledonia (+687)"
+    },
+    {
+        "countrycode": 64,
+        "Min": 3,
+        "Max": 10,
+        "CountryName": "New Zealand (+64)"
+    },
+    {
+        "countrycode": 505,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Nicaragua (+505)"
+    },
+    {
+        "countrycode": 227,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Niger (+227)"
+    },
+    {
+        "countrycode": 234,
+        "Min": 7,
+        "Max": 10,
+        "CountryName": "Nigeria (+234)"
+    },
+    {
+        "countrycode": 683,
+        "Min": 4,
+        "Max": 4,
+        "CountryName": "Niue (+683)"
+    },
+    {
+        "countrycode": 670,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Northern Marianas (+1-670)"
+    },
+    {
+        "countrycode": 850,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "North Korea (+850)"
+    },
+    {
+        "countrycode": 47,
+        "Min": 5,
+        "Max": 8,
+        "CountryName": "Norway (+47)"
+    },
+    {
+        "countrycode": 968,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Oman (+968)"
+    },
+    {
+        "countrycode": 92,
+        "Min": 8,
+        "Max": 11,
+        "CountryName": "Pakistan (+92)"
+    },
+    {
+        "countrycode": 680,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Palau (+680)"
+    },
+    {
+        "countrycode": 507,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Panama (+507)"
+    },
+    {
+        "countrycode": 675,
+        "Min": 4,
+        "Max": 11,
+        "CountryName": "Papua New Guinea (+675)"
+    },
+    {
+        "countrycode": 595,
+        "Min": 5,
+        "Max": 9,
+        "CountryName": "Paraguay (+595)"
+    },
+    {
+        "countrycode": 51,
+        "Min": 8,
+        "Max": 11,
+        "CountryName": "Peru (+51)"
+    },
+    {
+        "countrycode": 63,
+        "Min": 8,
+        "Max": 10,
+        "CountryName": "Philippines (+63)"
+    },
+    {
+        "countrycode": 48,
+        "Min": 6,
+        "Max": 9,
+        "CountryName": "Poland (+48)"
+    },
+    {
+        "countrycode": 351,
+        "Min": 9,
+        "Max": 11,
+        "CountryName": "Portugal (+351)"
+    },
+    {
+        "countrycode": "787/939",
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Puerto Rico (+1-787/939)"
+    },
+    {
+        "countrycode": 974,
+        "Min": 3,
+        "Max": 8,
+        "CountryName": "Qatar (+974)"
+    },
+    {
+        "countrycode": 40,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Romania (+40)"
+    },
+    {
+        "countrycode": 7,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Russian Federation (+7)"
+    },
+    {
+        "countrycode": 250,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Rwanda (+250)"
+    },
+    {
+        "countrycode": 247,
+        "Min": 4,
+        "Max": 4,
+        "CountryName": "Saint Helena, Ascension and Tristan da Cunha (+247)"
+    },
+    {
+        "countrycode": 290,
+        "Min": 4,
+        "Max": 4,
+        "CountryName": "Saint Helena, Ascension and Tristan da Cunha (+290)"
+    },
+    {
+        "countrycode": 869,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Saint Kitts and Nevis (+1-869)"
+    },
+    {
+        "countrycode": 758,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Saint Lucia (+1-758)"
+    },
+    {
+        "countrycode": 508,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "Saint Pierre and Miquelon (+508)"
+    },
+    {
+        "countrycode": 784,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Saint Vincent and the Grenadines (+1-784)"
+    },
+    {
+        "countrycode": 685,
+        "Min": 3,
+        "Max": 7,
+        "CountryName": "Samoa (+685)"
+    },
+    {
+        "countrycode": 378,
+        "Min": 6,
+        "Max": 10,
+        "CountryName": "San Marino (+378)"
+    },
+    {
+        "countrycode": 239,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Sao Tome and Principe (+239)"
+    },
+    {
+        "countrycode": 966,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Saudi Arabia (+966)"
+    },
+    {
+        "countrycode": 221,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Senegal (+221)"
+    },
+    {
+        "countrycode": 381,
+        "Min": 4,
+        "Max": 12,
+        "CountryName": "Serbia (+381)"
+    },
+    {
+        "countrycode": 248,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Seychelles (+248)"
+    },
+    {
+        "countrycode": 232,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Sierra Leone (+232)"
+    },
+    {
+        "countrycode": 65,
+        "Min": 8,
+        "Max": 12,
+        "CountryName": "Singapore (+65)"
+    },
+    {
+        "countrycode": 721,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Sint Maarten (Dutch part) (+1-721)"
+    },
+    {
+        "countrycode": 421,
+        "Min": 4,
+        "Max": 9,
+        "CountryName": "Slovakia (+421)"
+    },
+    {
+        "countrycode": 386,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Slovenia (+386)"
+    },
+    {
+        "countrycode": 677,
+        "Min": 5,
+        "Max": 5,
+        "CountryName": "Solomon Islands (+677)"
+    },
+    {
+        "countrycode": 252,
+        "Min": 5,
+        "Max": 8,
+        "CountryName": "Somalia (+252)"
+    },
+    {
+        "countrycode": 27,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "South Africa (+27)"
+    },
+    {
+        "countrycode": 211,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "South Sudan (+211)"
+    },
+    {
+        "countrycode": 82,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "South Korea (+82)"
+    },
+    {
+        "countrycode": 34,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Spain (+34)"
+    },
+    {
+        "countrycode": 94,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Sri Lanka (+94)"
+    },
+    {
+        "countrycode": 249,
+        "Min": 6,
+        "Max": 7,
+        "CountryName": "Sudan (+249)"
+    },
+    {
+        "countrycode": 597,
+        "Min": 7,
+        "Max": 8,
+        "CountryName": "Suriname (+597)"
+    },
+    {
+        "countrycode": 268,
+        "Min": 7,
+        "Max": 13,
+        "CountryName": "Swaziland (+268)"
+    },
+    {
+        "countrycode": 46,
+        "Min": 4,
+        "Max": 12,
+        "CountryName": "Sweden (+46)"
+    },
+    {
+        "countrycode": 41,
+        "Min": 8,
+        "Max": 10,
+        "CountryName": "Switzerland (+41)"
+    },
+    {
+        "countrycode": 963,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Syrian Arab Republic (+963)"
+    },
+    {
+        "countrycode": 886,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Taiwan, China (+886)"
+    },
+    {
+        "countrycode": 992,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Tajikistan (+992)"
+    },
+    {
+        "countrycode": 255,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Tanzania (+255)"
+    },
+    {
+        "countrycode": 66,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Thailand (+66)"
+    },
+    {
+        "countrycode": 670,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Timor-Leste (+670)"
+    },
+    {
+        "countrycode": 228,
+        "Min": 4,
+        "Max": 4,
+        "CountryName": "Togo (+228)"
+    },
+    {
+        "countrycode": 690,
+        "Min": 5,
+        "Max": 7,
+        "CountryName": "Tokelau (+690)"
+    },
+    {
+        "countrycode": 676,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Tonga (+676)"
+    },
+    {
+        "countrycode": 868,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Trinidad and Tobago (+1-868)"
+    },
+    {
+        "countrycode": 216,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Tunisia (+216)"
+    },
+    {
+        "countrycode": 90,
+        "Min": 8,
+        "Max": 8,
+        "CountryName": "Turkey (+90)"
+    },
+    {
+        "countrycode": 993,
+        "Min": 7,
+        "Max": 7,
+        "CountryName": "Turkmenistan (+993)"
+    },
+    {
+        "countrycode": 649,
+        "Min": 5,
+        "Max": 6,
+        "CountryName": "Turks and Caicos Islands (+1-649)"
+    },
+    {
+        "countrycode": 688,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Tuvalu (+688)"
+    },
+    {
+        "countrycode": 256,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Uganda (+256)"
+    },
+    {
+        "countrycode": 380,
+        "Min": 8,
+        "Max": 9,
+        "CountryName": "Ukraine (+380)"
+    },
+    {
+        "countrycode": 971,
+        "Min": 7,
+        "Max": 10,
+        "CountryName": "United Arab Emirates (+971)"
+    },
+    {
+        "countrycode": 44,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "United Kingdom (+44)"
+    },
+    {
+        "countrycode": 1,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "United States (+1)"
+    },
+    {
+        "countrycode": 340,
+        "Min": 4,
+        "Max": 11,
+        "CountryName": "United States Virgin Islands (+1)"
+    },
+    {
+        "countrycode": 598,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Uruguay (+598)"
+    },
+    {
+        "countrycode": 998,
+        "Min": 5,
+        "Max": 7,
+        "CountryName": "Uzbekistan (+998)"
+    },
+    {
+        "countrycode": 678,
+        "Min": 11,
+        "Max": 11,
+        "CountryName": "Vanuatu (+678)"
+    },
+    {
+        "countrycode": 379,
+        "Min": 10,
+        "Max": 10,
+        "CountryName": "Vatican (+379)"
+    },
+    {
+        "countrycode": 39,
+        "Min": 7,
+        "Max": 10,
+        "CountryName": "Vatican (+39)"
+    },
+    {
+        "countrycode": 58,
+        "Min": 6,
+        "Max": 6,
+        "CountryName": "Venezuela (Bolivarian Republic of) (+58)"
+    },
+    {
+        "countrycode": 84,
+        "Min": 6,
+        "Max": 9,
+        "CountryName": "Vietnam (+84)"
+    },
+    {
+        "countrycode": 681,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Wallis and Futuna (+681)"
+    },
+    {
+        "countrycode": 967,
+        "Min": 5,
+        "Max": 10,
+        "CountryName": "Yemen (+967)"
+    },
+    {
+        "countrycode": 260,
+        "Min": 9,
+        "Max": 9,
+        "CountryName": "Zambia (+260)"
+    },
+    {
+        "countrycode": 263,
+        "Min": 5,
+        "Max": 10,
+        "CountryName": "Zimbabwe (+263)"
+    }
+]

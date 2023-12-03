@@ -1,0 +1,11 @@
+.otp-section {
+    button,
+    button:hover {
+        border-color: var(--theme-golden);
+        color: var(--theme-golden);
+    }
+    input:focus, select:focus {
+        outline: none;
+        border: none;
+    }
+}

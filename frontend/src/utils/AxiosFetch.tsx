@@ -1,7 +1,6 @@
 "use client";
 
 import { toggleLoader } from "@/redux/loader-slice/loaderSlice";
-import { RootState } from "@/redux/store";
 import axios from "axios";
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
@@ -28,7 +27,6 @@ export const post = async (url: string, payload: any) => {
 };
 
 export const AxiosInterceptor = (props: any) => {
-    // let loading = useSelector((state: RootState) => state.loader);
     const dispatch = useDispatch();
     useEffect(() => {
         const req = (request: any) => {

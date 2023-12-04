@@ -15,7 +15,6 @@ const loaderSlice = createSlice({
     initialState,
     reducers: {
         toggleLoader: (state, action: PayloadAction<boolean>) => {
-            debugger;
             state.loading = action.payload;
         },
     },

@@ -10,11 +10,13 @@ import { post } from "@/utils/AxiosFetch";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleLogin } from "@/redux/auth-slice/authSlice";
 import { RootState } from "@/redux/store";
+import { useRouter } from "next/navigation";
 
 interface OtpProps {
     title: string;
     inputSize: number;
     transactionType: string;
+    redirectionURL?: string;
 }
 interface CommonOtpComponentProps {
     isd: string;
@@ -98,16 +100,37 @@ const TakeawayAndGiftingComponent = (
         <>
             {props.type === "takeaway" ? (
                 <>
-                    <div>Select City</div>
-                    <div>Select Hotel</div>
+                    <div className="border">
+                        <select className="w-100">
+                            <option>kjhaskjdhaskjdh</option>
+                        </select>
+                    </div>
+                    <div className="border">
+                        <select className="w-100">
+                            <option>kjhaskjdhaskjdh</option>
+                        </select>
+                    </div>
                 </>
             ) : (
                 <>
                     <div>Enter Pin Code</div>
                 </>
             )}
-            <div>Promo Code</div>
-            <div>Continue</div>
+            <div className="flex relative">
+                <div className="flex-grow">
+                    <input className="border-bottom border-dark w-100" />
+                </div>
+                <div className="absolute">
+                    <Button variant="outlined" className="p-0 -mt-3">
+                        Apply
+                    </Button>
+                </div>
+            </div>
+            <div>
+                <Button className="w-100" variant="outlined">
+                    Continue
+                </Button>
+            </div>
         </>
     );
 };
@@ -119,6 +142,7 @@ const Otp = (props: OtpProps) => {
     const [showOTP, setShowOTP] = useState(false);
     const dispatch = useDispatch();
     const login = useSelector((state: RootState) => state.auth.loginStatus);
+    const router = useRouter();
 
     const resetStates = useCallback(() => {
         setISD("");
@@ -158,13 +182,26 @@ const Otp = (props: OtpProps) => {
 
     //USEEFFECTS
     useEffect(() => {
+        if (
+            login &&
+            props.transactionType === "your-order" &&
+            props.redirectionURL
+        ) {
+            router.push(props.redirectionURL);
+        }
+    }, []);
+    useEffect(() => {
         const verifyOtp = async () => {
             const response = await post("/otp/verify", { phone, otp });
+            debugger;
             if (response.status === 200) {
                 console.log("VALID OTP");
                 //SET LOGIN AND DATA AND REDIRECT ACCORDINGLY
                 resetStates();
                 dispatch(toggleLogin(true));
+                if (props.transactionType === "your-order") {
+                    router.push("/mbow/your-order");
+                }
             } else {
                 console.log("INVALID OTP");
             }
@@ -173,11 +210,15 @@ const Otp = (props: OtpProps) => {
         if (otp.length === 4) {
             verifyOtp();
         }
-    }, [dispatch, otp, phone]);
+    }, [dispatch, otp, phone, props.transactionType, resetStates, router]);
 
     return (
         <section className="otp-section mt-14">
-            <div className="container flex flex-col gap-5 w-50 p-4 pb-2">
+            <div
+                className={`container flex flex-col ${
+                    login ? "gap-3" : "gap-5"
+                } w-50 p-4 pb-2`}
+            >
                 <div className="flex">
                     <div>{"<"}</div>
                     <div className="text-center flex-grow-1">{props.title}</div>

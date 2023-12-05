@@ -14,6 +14,7 @@ const OtpPage = () => {
                 transactionType="your-order"
                 title={"Your Orders"}
                 inputSize={2}
+                redirectionURL="/mbow/your-order"
             />
             <Review />
             <Footer />
